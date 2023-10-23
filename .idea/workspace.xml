@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="217b928e-42f4-49c7-b346-80f0185e2065" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson1/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson11/SimpleIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson11/SimpleIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson11/SimpleIfElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson11/SimpleIfNested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson11/SimpleReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson12/SimpleCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson12/TernaryOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson12/Weekend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson13/SimpleDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson13/SimpleWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson13/SimpleWhileForever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson14/SimpleFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson14/SimpleIncludeFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson14/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson16/SimpleOop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson16/documentation/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson16/documentation/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson17/SimpleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson2/Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson2/TypesData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson3/ScannerSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson3/ValueView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson4/CastTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson4/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson4/StringSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson4/TestObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson6/MethodSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson6/RandomSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson7/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson7/ConstructorSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson8/ConvertorSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson8/ExchangeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson8/GradConvertor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson8/RandomStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson9/IfSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson9/LogicalOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson9/UnaryOperation.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Wpx2IQijd6YKRokwLJ2kzl4X5r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/java/workInKlass/src/main/java/de/telran",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\java\workInKlass\src\main\java\de\telran" />
+      <recent name="C:\java\workInKlass\src\main\java\de\telran\lesson16" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SimpleArray">
+    <configuration name="SimpleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.lesson17.SimpleArray" />
+      <module name="workInKlass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.telran.lesson17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleIncludeFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.lesson14.SimpleIncludeFor" />
+      <module name="workInKlass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.telran.lesson14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleOop (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.lesson16.SimpleOop" />
+      <module name="workInKlass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.telran.lesson16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleOop (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.lesson16.SimpleOop" />
+      <module name="workInKlass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.telran.lesson16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleOop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.lesson16.SimpleOop" />
+      <module name="workInKlass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.telran.lesson16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleArray" />
+        <item itemvalue="Application.SimpleIncludeFor" />
+        <item itemvalue="Application.SimpleOop" />
+        <item itemvalue="Application.SimpleOop (2)" />
+        <item itemvalue="Application.SimpleOop (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="217b928e-42f4-49c7-b346-80f0185e2065" name="Changes" comment="" />
+      <created>1697443113947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697443113947</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
